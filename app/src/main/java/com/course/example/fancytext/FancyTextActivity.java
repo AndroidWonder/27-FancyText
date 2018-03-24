@@ -58,7 +58,7 @@ public class FancyTextActivity extends Activity {
 		}
 
 		public void onAnimationStart(Animation animation) {			
-			//what to do when animation stops
+			//what to do when animation starts
 		}
 		
 	}
