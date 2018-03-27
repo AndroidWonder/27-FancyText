@@ -34,7 +34,7 @@ public class FancyTextActivity extends Activity {
 
     }
     
-    class MyAnimationListener implements Animation.AnimationListener {
+    public class MyAnimationListener implements Animation.AnimationListener {
 
 		public void onAnimationEnd(Animation animation) {
 			
@@ -45,7 +45,7 @@ public class FancyTextActivity extends Activity {
 			// Load the appropriate animation and set listener to repeat animation
 	        Animation an2 =  AnimationUtils.loadAnimation(FancyTextActivity.this, R.anim.snazzyintro);
 
-	        //an2.setAnimationListener(new MyAnimationListener());
+	       // an2.setAnimationListener(new MyAnimationListener());
 	        
 	        // Start the animation
 	        layoutToAnimate2.startAnimation(an2);
