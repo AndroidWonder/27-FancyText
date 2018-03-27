@@ -9,8 +9,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 public class FancyTextActivity extends Activity {
-    /** Called when the activity is first created. */
-	
+
 	private LinearLayout layoutToAnimate1, layoutToAnimate2;
 	
     @Override
