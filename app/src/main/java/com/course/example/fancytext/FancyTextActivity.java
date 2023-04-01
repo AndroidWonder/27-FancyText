@@ -22,6 +22,7 @@ public class FancyTextActivity extends Activity {
           
         layoutToAnimate1 = (LinearLayout)findViewById(R.id.layout01);
         layoutToAnimate2 = (LinearLayout)findViewById(R.id.layout02);
+
         layoutToAnimate2.setVisibility(View.INVISIBLE);
         
      // Load the appropriate animation and set listener
