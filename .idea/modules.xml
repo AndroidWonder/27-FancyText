@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/27-FancyText.iml" filepath="$PROJECT_DIR$/27-FancyText.iml" group="27-FancyText" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="27-FancyText/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/27-FancyText.iml" filepath="$PROJECT_DIR$/.idea/modules/27-FancyText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-FancyText.app.unitTest.iml" />
     </modules>
   </component>
 </project>
